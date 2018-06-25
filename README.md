@@ -1,2 +1,2 @@
 # coeval.github.io
-Website hosted on Github.
+<a href="https://github.com/coeval/coeval.github.io/blob/master/LICENSE">License</a>

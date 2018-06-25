@@ -1,2 +1,2 @@
 # coeval.github.io
-Please read: <a href="https://github.com/coeval/coeval.github.io/blob/master/LICENSE">License</a>
+Please read: <a href="https://raw.githubusercontent.com/coeval/coeval.github.io/master/LICENSE.md">License</a>

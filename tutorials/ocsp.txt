@@ -1,0 +1,40 @@
+>> How to block Apple's Revoke Server to prevent apps from getting unsigned
+
+Author: coeval
+
+_________
+
+
+1. Open Cydia
+
+2. Tap on "Sources" (second menu entry at the bottom)
+
+3. Can you see the Repository "BigBoss" in the list?
+Yes -> Continue with Step 4
+No -> Tap "Edit", then "Add", type http://apt.thebigboss.org/repofiles/cydia/ in the text field and tap "Add source"
+
+4. Tap on "Search" in the bottom menu.
+
+5. Search for "Filza File Manager"
+
+6. Select "Filza File Manager" - there could be more than one tweak with the same name. You need to take the one from BigBoss.
+
+7. Install the Tweak
+
+8. Open "Filza File Manager" on your home screen.
+
+9. Go back until you are in the root directory and the back button at the top disappears.
+
+10. Enter the folder /etc
+
+11. Find the file "hosts" and tap on it. Select "Text viewer" to open the file.
+
+12. Do NOT delete anything in the hosts file. The only thing that you need to do is to add a new line with the following content:
+127.0.0.1 ocsp.apple.com
+
+There must be at least one single space after the 127.0.0.1
+
+13. Tap "Save" after modifiying the hosts file. Do not modify anything else and close the Filza app. It's a very bad idea to modify system files if you don't know what you're doing.
+
+14. You are done! If you need help, feel free to contact me.
+You can now delete Filza File Manager if you want to!

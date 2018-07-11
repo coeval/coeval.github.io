@@ -1,0 +1,74 @@
+Sources:
+http://apt.saurik.com/ https://cydia.hbang.ws/ http://cydia.kiiimo.org/ http://julio.xarold.com/ http://beta.sparkservers.co.uk/ https://midnightchip.github.io/repo/ http://apt.thebigboss.org/repofiles/cydia/ http://ryleyangus.com/repo/ http://getdelta.co/ http://limneos.net/repo/ http://xenpublic.incendo.ws/ http://beta.unlimapps.com/ http://apt.modmyi.com/ http://rpetri.ch/repo/ http://tateu.net/repo/ http://pokego2.com/ http://ib-soft.net/cydia/ http://cydia.zodttd.com/repo/cydia/ http://www.inati0n.org/ http://repo.hackyouriphone.org/ http://beta.cpdigitaldarkroom.com/ http://cydia.ichitaso.com/ https://repo.nullpixel.uk/ http://cydia.angelxwind.net/ http://evelyn-ynam.yourepo.com/ https://repo.cpdigitaldarkroom.com/ http://coolstar.org/publicrepo/ http://apt.alfhaily.me/ http://cydia.iphonecake.com/ https://electrarepo64.coolstar.org/substrate https://electrarepo64.coolstar.org/ https://repo.packix.com/ 
+
+Packages:
+AdBlocker 2 (iOS 8+9): 1.10
+AppCake: 5.5.8.1
+appinst (App Installer): 1.1.1
+AppList: 1.5.14
+Apps Manager: 1.3.0
+AppSync Unified: 30.0
+AudioRecorder 2 (iOS 8,9,10,11): 1.6-46k
+Base Structure: 1-4
+Betternet Vpn Hack: 3.3.2-1
+BigBoss Icon Set: 1.0
+BioProtect X for iOS 11: 2.3-9K
+Carrierizer: 1.0.0
+CCModules: 1.2-13
+CCSupport: 1.1
+Cephei: 1.12
+ConditionalWiFi3: 1.0.0
+CrackTool3 (iOS 11): 3.0~beta2
+Cydia Translations: 1.1.12
+CyDown (iOS 11): 6.9.5
+Darwin CC Tools: 895
+DismissMyKeyboard: 1.1-2
+DismissProgress: 1.0.3
+DockXI For iOS8/9/10/11: 1.1.1
+Filza File Manager: 3.5.2-1
+Flame: 1.3
+Flipswitch: 1.0.16~beta2
+Gyration: 1.0.3
+HYI Repo Icons: 8.0.4
+iCleaner Pro: 7.7.0
+IconSupport: 1.11.0-1
+Immortal: 1.2.1-1
+InApp Purchases iOS 10 & 11: 1.0~beta1
+iOS Firmware: 11.3
+iPhone Firmware (/sbin): 0-1
+Kiiimo Repo Icons: 12.1
+LD64: 274.2
+libbulletin: 0.1-142
+libcolorpicker: 1.6-1
+Liberty Lite: 0.2.9
+libpackageinfo: 1.1.0.1-1
+Link Identity Editor: 2:1.2.2-coolstar
+MakeCydiaBuyAgain: 1.0-1+debug
+NO PLS RECOVERY: 2.1.1
+NoSubstitute (Electra): 1.0-1
+pincrush: 0.9.2-2
+PowerSelector (CCSupport): 1.0-5
+PreferenceLoader: 2.2.4~alpha1
+PrefSafety: 1.0.3-1
+Profile Directory: 0-2
+RealCC: 1.0.1
+RocketBootstrap: 1.0.6
+RomanPasscode: 2.1
+Rooster: 1.0.0
+Safari Plus: 1.5.3
+Sonus: 3.0.1k
+SpectrePatch: 0.0.2
+Spotilife: 1.0
+SugarCane: 1.0.0
+SwipeForMore: 1.1.7
+TapTapFlip: 1.4
+TechSupport Framework: 1.5.0.1-1
+TranslucentCydia: 0.9.0-1
+Tweak Count 2: 1.0.1
+tweakCompatible: 0.0.7
+WiFi Passwords: 3.0.1
+YouTube Tools: 1.9
+YTCopyDescription: 1.0
+
+
+11. Juli 2018, 23:43

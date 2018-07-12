@@ -33,8 +33,23 @@ No -> Tap "Edit", then "Add", type http://apt.thebigboss.org/repofiles/cydia/ in
 127.0.0.1 ocsp.apple.com
 
 There must be at least one single space after the 127.0.0.1
+>> YOU CAN FIND AN EXAMPLE AT THE BOTTOM ! ! ! <<
 
 13. Tap "Save" after modifiying the hosts file. Do not modify anything else and close the Filza app. It's a very bad idea to modify system files if you don't know what you're doing.
 
 14. You are done! If you need help, feel free to contact me.
 You can now delete Filza File Manager if you want to!
+
+///////////////
+
+EXAMPLE OF HOSTS FILE
+
+##
+# Host Database
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1    localhost
+255.255.255.255 broadcasthost
+::1      localhost
+127.0.0.1    ocsp.apple.com
